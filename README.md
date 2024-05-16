@@ -15,4 +15,4 @@ This Python project uses OpenCV to generate Pythagorean tree squares, creating a
 
 ## IMG of the result:
 
- <img src="A lonely Pythagorean tree named Nissan is looking for a job.png" alt="Alt Text" width="300">
+ <img src="Pythagorean treeb.png" alt="Alt Text" width="300">
