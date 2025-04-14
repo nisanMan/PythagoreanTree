@@ -1,0 +1,17 @@
+# PyCharm system files
+.idea/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Other auto-generated files
+.env
+.DS_Store
