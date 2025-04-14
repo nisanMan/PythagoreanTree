@@ -40,8 +40,11 @@ pip install -r requirements.txt
 
 ## Example .png Output
 
- <img src="output\Pythagorean treeb.png" alt="Alt Text" width="300">
- <img src="output\scene_day_sun.png" alt="Alt Text" width="300">
+ <p float="left">
+  <img src="output/Pythagorean treeb.png" alt="Tree Base" width="300"/>
+  <img src="output/scene_day_sun.png" alt="Sunny Scene" width="300"/>
+</p>
+
 
 ## Usage
 To generate the Pythagorean tree, simply run:
