@@ -33,7 +33,7 @@ def generate_scene(day: bool, with_sun: bool, with_moon: bool, text: str, filena
 
     # text
     font = cv.FONT_HERSHEY_TRIPLEX
-    cv.putText(img, text, (150, 900), font, 2, (245, 255, 245), 2)
+    cv.putText(img, text, (25, 590), font, 2, (245, 255, 245), 2)
 
     # save
     cv.imwrite(filename, img)

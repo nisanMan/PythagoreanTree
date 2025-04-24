@@ -45,7 +45,7 @@ class BackgroundDrawer:
         return np.zeros((height, width, 3), dtype=np.uint8)
 
     @staticmethod
-    def draw_sun(img, center=(340, 125), size=75, glow=75):
+    def draw_sun(img, center=(700, 225), size=75, glow=75):
         glow_color = (0, 255, 255)
         cv.circle(img, center, glow, glow_color, -1)
         cv.circle(img, center, size, (33, 222, 255), -1)
